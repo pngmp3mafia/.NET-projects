@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zIo5OOLDen8=",
+  "success": true,
+  "projectFilePath": "/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/ForexAlert.csproj",
+  "expectedPackageFiles": [
+    "/Users/khanhhua/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.4/microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "/Users/khanhhua/.nuget/packages/roslynator.analyzers/4.12.4/roslynator.analyzers.4.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}

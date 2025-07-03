@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXRbiJpW3CA=",
+  "success": true,
+  "projectFilePath": "/Users/khanhhua/Documents/Coding/dotnet/HabitLogger/HabitLogger.csproj",
+  "expectedPackageFiles": [
+    "/Users/khanhhua/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.4/microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "/Users/khanhhua/.nuget/packages/microsoft.data.sqlite/8.0.6/microsoft.data.sqlite.8.0.6.nupkg.sha512",
+    "/Users/khanhhua/.nuget/packages/microsoft.data.sqlite.core/8.0.6/microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
+    "/Users/khanhhua/.nuget/packages/roslynator.analyzers/4.12.4/roslynator.analyzers.4.12.4.nupkg.sha512",
+    "/Users/khanhhua/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/khanhhua/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/Users/khanhhua/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/khanhhua/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/khanhhua/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512",
+    "/Users/khanhhua/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

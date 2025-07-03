@@ -1,0 +1,15 @@
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/obj/Debug/net8.0/ForexAlert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/obj/Debug/net8.0/ForexAlert.AssemblyInfoInputs.cache
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/obj/Debug/net8.0/ForexAlert.AssemblyInfo.cs
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/obj/Debug/net8.0/ForexAlert.csproj.CoreCompileInputs.cache
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/obj/Debug/net8.0/ForexAlert.sourcelink.json
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/bin/Debug/net8.0/ForexAlert
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/bin/Debug/net8.0/ForexAlert.deps.json
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/bin/Debug/net8.0/ForexAlert.runtimeconfig.json
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/bin/Debug/net8.0/ForexAlert.dll
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/bin/Debug/net8.0/ForexAlert.pdb
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/obj/Debug/net8.0/ForexAlert.dll
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/obj/Debug/net8.0/refint/ForexAlert.dll
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/obj/Debug/net8.0/ForexAlert.pdb
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/obj/Debug/net8.0/ForexAlert.genruntimeconfig.cache
+/Users/khanhhua/Documents/Coding/dotnet/ForexAlert/obj/Debug/net8.0/ref/ForexAlert.dll
